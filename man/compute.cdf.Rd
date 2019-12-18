@@ -4,7 +4,7 @@
 \alias{compute.cdf}
 \title{Compute CDF from timeseries}
 \usage{
-compute.cdf(time, index)
+\method{compute}{cdf}(time, index)
 }
 \arguments{
 \item{time}{Vector of timestamps, e.g. years}
